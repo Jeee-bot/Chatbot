@@ -1,15 +1,4 @@
 
-NLP Course Project - Building a Chatbot
-
-Institute: IIIT,Bangalore & upGrad
-
-Course: PG Diploma in Data Science
-
-Submission Date: 15-FEB-2021
-
-Submitted By: Bagish Mehrotra
-              Jeevak Ghosh
-
 Problem Statement:
 
 An Indian startup named 'Foodie' wants to build a conversational bot (chatbot) which can help users discover restaurants across 
